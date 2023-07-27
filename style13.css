@@ -1,0 +1,34 @@
+body{
+    background-color: lightpink;
+}
+h3{
+    text-align: center;
+    border-style: dotted;
+    border-width: 4px 4px;
+    border-bottom: none;
+    border-color: #408dac;
+}
+
+.cls1{
+    background-size: 100%;
+    background-image: url("51383.webp");
+    height: 500px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    
+}
+.cls2 #p1{
+    background-color: lavender;
+}
+.cls2 #p3{
+    border-style: dashed solid ;
+    border-width: 7px 7px;
+    border-color: red blueviolet;
+}
+.cls2 #p4{
+    border-style: inset;
+    border-width: 7px 7px;
+    border-color: blueviolet;
+}
